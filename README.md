@@ -1,3 +1,3 @@
-Nueva funcionalidad lista
-
-chore(release): preparar 1.0.0
+Linea 1 base
+Linea 2 a editar (cambiar acá)
+Linea 3
